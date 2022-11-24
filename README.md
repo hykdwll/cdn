@@ -1,1 +1,2 @@
-# cdn
+# 访问链接
+https://hykdwll.github.io/cdn
